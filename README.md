@@ -1,2 +1,5 @@
 # KeyChainSample
 easy KeyChainSample
+FirebaseAuthなどに挑戦しているメンバーの子向け。
+段階としてはメンバー目線では少し難易度が高めのものに挑戦しているフェーズ。
+パスワードの保存のみならコードの使い回しも可能。
